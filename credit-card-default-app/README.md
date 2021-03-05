@@ -14,7 +14,7 @@ New to H2O Wave? We recommend starting in the documentation to [download and run
 
 ```bash
 $ git clone https://github.com/a-ghorbani/h2o-wave-apps.git
-$ cd wave-app-credit-risk
+$ cd credit-card-default-app
 $ python3 -m venv venv
 $ source venv/bin/activate
 $ pip3 install -r requirements.txt
@@ -33,3 +33,7 @@ Note! If you did not activate your virtual environment this will be:
 
 ### 4. View the App
 Point your favorite web browser to [localhost:10101](http://localhost:10101)
+
+### 5. Screenshot
+
+![Credit Card Default Dashboard](./assets/Screenshot.png "Credit Card Default Dashboard")
