@@ -1,0 +1,4 @@
+h2o-wave==0.12.1
+driverlessai
+pandas
+colour

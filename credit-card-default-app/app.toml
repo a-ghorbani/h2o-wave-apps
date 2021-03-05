@@ -1,0 +1,10 @@
+[App]
+Name = "ai.h2o.wave.credit_default"
+Version = "0.0.1"
+Title = "Credit Card Default"
+Description = "Credit card default prediction with Driverless AI - Wave App"
+LongDescription = "Description.md"
+Category = "Finance"
+
+[Runtime]
+Module = "app"
